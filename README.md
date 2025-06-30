@@ -17,6 +17,6 @@ Ben **Bilgisayar Programcılığı** okuyorum. Özellikle **masaüstü uygulamal
 
 ## 📂 Projelerim
 
-- 🚌 [Otobüs Bileti Satış Otomasyonu](https://github.com/aysenurkucuk45/otobus_satis)
+- 🚌 Otobüs Bileti Satış Otomasyonu
 - 🤖 Yapay Zeka Destekli Ruh Hali Takip Sistemi (devam ediyor)
 - 🐞 Hata Bulma ve Takip Uygulaması (devam ediyor)
