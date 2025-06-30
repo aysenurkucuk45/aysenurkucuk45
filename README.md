@@ -11,8 +11,8 @@ Ben **Bilgisayar Programcılığı** okuyorum. Özellikle **masaüstü uygulamal
 
 ## 🛠️ Kullandığım Teknolojiler
 
-- **Diller:** C#, Dart, SQL
-- **Araçlar:** Visual Studio, GitHub Desktop, Flutter, Access, MSSQL
+- **Diller:** C#, SQL
+- **Araçlar:** Visual Studio, GitHub Desktop, Access, MSSQL
 - **Teknolojiler:** Windows Forms, EF Core, Git
 
 ## 📂 Projelerim
