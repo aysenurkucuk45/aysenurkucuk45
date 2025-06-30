@@ -5,7 +5,7 @@ Ben **Bilgisayar Programcılığı** okuyorum. Özellikle **masaüstü uygulamal
 ## 🚀 Hakkımda
 
 - 🎓 Bilgisayar Programcılığı öğrencisiyim.
-- 💻 C#, .NET, Flutter ve SQL ile projeler geliştiriyorum.
+- 💻 C#, .NET, Access ve SQL ile projeler geliştiriyorum.
 - 🌱 Şu anda yapay zeka destekli ruh hali takip uygulaması ve hata bulma uygulaması üzerinde çalışıyorum.
 - 📫 Bana ulaş: [aysenurkucuk74@gmail.com] 
 
