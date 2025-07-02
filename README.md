@@ -1,6 +1,6 @@
 # Merhaba, ben Ayşenur 👋
 
-Ben **Bilgisayar Programcılığı** okuyorum. Özellikle **masaüstü uygulamaları**, **veritabanı bağlantıları** ve geliştirme alanlarında projeler yapıyorum.
+Ben Bilgisayar Programcılığı okuyorum. Özellikle Masaüstü uygulamaları, veritabanı bağlantıları ve web geliştirme konularına ilgi duyuyor, bu alanlarda projeler geliştiriyorum.
 
 ## 🚀 Hakkımda
 
@@ -11,9 +11,9 @@ Ben **Bilgisayar Programcılığı** okuyorum. Özellikle **masaüstü uygulamal
 
 ## 🛠️ Kullandığım Teknolojiler
 
-- **Diller:** C#, SQL
-- **Araçlar:** Visual Studio, GitHub Desktop, Access, MSSQL
-- **Teknolojiler:** Windows Forms, EF Core, Git
+- Diller: C#, SQL
+- Araçlar: Visual Studio, GitHub Desktop, Access, MSSQL
+- Teknolojiler: Windows Forms, EF Core, Git
 
 ## 📂 Projelerim
 
