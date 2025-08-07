@@ -17,5 +17,4 @@ Ben Bilgisayar Programcılığı okuyorum. Özellikle Masaüstü uygulamaları, 
 
 ## 📂 Projelerim
 
-- 🤖 Yapay Zeka Destekli Ruh Hali Takip Sistemi (devam ediyor)
 - 🐞 Hata Bulma ve Takip Uygulaması (devam ediyor)
