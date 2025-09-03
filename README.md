@@ -6,7 +6,7 @@ Ben Bilgisayar Programcısıyım. Özellikle Masaüstü uygulamaları, veritaban
 
 - 🎓 Bilgisayar Programcısı.
 - 💻 C#, .NET, Access ve SQL ile projeler geliştiriyorum.
-- 🌱 Şu anda yapay zeka destekli ruh hali takip uygulaması ve hata bulma uygulaması üzerinde çalışıyorum.
+- 🌱 Şu anda hata bulma uygulaması üzerinde çalışıyorum.
 - 📫 Bana ulaş: [aysenurkucuk74@gmail.com] 
 
 ## 🛠️ Kullandığım Teknolojiler
