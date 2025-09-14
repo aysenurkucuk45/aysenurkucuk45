@@ -4,11 +4,11 @@ Bilgisayar Programcılığı mezunuyum. .NET ekosisteminde web tabanlı uygulama
 
 🚀 Hakkımda
 
- Bilgisayar Programcılığı mezunu
- C#, .NET ve SQL ile projeler geliştiriyorum
- Stajımda Hata Takip ve Yönetim Portalı projesi geliştirdim
- Sürekli öğrenmeye ve kendimi geliştirmeye devam ediyorum
- Bana ulaş: aysenurkucuk74@gmail.com
+🎓 Bilgisayar Programcılığı mezunu
+💻 C#, .NET ve SQL ile projeler geliştiriyorum
+🐞 Stajımda Hata Takip ve Yönetim Portalı projesi geliştirdim
+🌱 Sürekli öğrenmeye ve kendimi geliştirmeye devam ediyorum
+📬 Bana ulaş: aysenurkucuk74@gmail.com
 
 🛠️ Kullandığım Teknolojiler
 
@@ -20,6 +20,7 @@ Front-end: HTML5, CSS3, Bootstrap, JavaScript
 Diğer: Git, Chart.js, ParamQuery Grid
 
 📌 Projelerim
- Hata Takip ve Yönetim Portalı
- Afet Yardım Koordinasyon Uygulaması (devam ediyor)
- Randevu & Kuyruk Yönetim Sistemi (planlama aşamasında)
+
+🐞 Hata Takip ve Yönetim Portalı
+🌍 Afet Yardım Koordinasyon Uygulaması (devam ediyor)
+⏳ Randevu & Kuyruk Yönetim Sistemi (planlama aşamasında)
