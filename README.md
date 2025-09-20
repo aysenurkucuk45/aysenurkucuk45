@@ -18,6 +18,6 @@ Bilgisayar Programcılığı mezunuyum. **.NET ekosisteminde web tabanlı uygula
 - **Diğer:** Git, Chart.js, ParamQuery Grid  
 
 ## 📌 Projelerim  
-- 🐞 Hata Takip ve Yönetim Portalı *(devam ediyor)*  
+- 🐞 Hata Takip ve Yönetim Portalı *(tamamlandı)*  
 - 🌍 Afet Yardım Koordinasyon Uygulaması *(devam ediyor)*  
 - ⏳ Randevu & Kuyruk Yönetim Sistemi *(planlama aşamasında)*  
